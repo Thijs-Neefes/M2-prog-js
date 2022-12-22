@@ -1,0 +1,13 @@
+canvas
+{
+    background-color: rgb(64, 67, 86);
+    border: 3px solid black;
+}
+
+#text
+{
+    position:relative; 
+    right: 440px; 
+    top: 110px;
+    background-color: rgb(255, 0, 34);
+}
